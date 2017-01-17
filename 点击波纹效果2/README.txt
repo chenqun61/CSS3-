@@ -1,3 +1,2 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/idiotWu/pen/nefhC.
-
- Android L ripple effect with CSS3 and Javascript.
+可以参考这个教程
+https://idiotwu.me/material-design-ripple-effect-with-css3-and-javascript/
